@@ -1,0 +1,14 @@
+文本匹配：
+https://www.sbert.net/
+https://github.com/UKPLab/sentence-transformers
+这是这个模型可以做的事情：
+Computing Sentence Embeddings
+Semantic Textual Similarity
+Clustering
+Paraphrase Mining
+Translated Sentence Mining
+Semantic Search
+Retrieve & Re-Rank
+Text Summarization
+Multilingual Image Search, Clustering & Duplicate Detection
+
